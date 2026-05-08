@@ -85,7 +85,7 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 
 22. Lin Jiang, Jigang Wu, Shuping Zhao, et al. Joint Category Compactness and Disturbance Reduction for Cross-Domain Classification, IEEE Transactions on Instrumentation and Measurement 73, 1-14, 2024.
 
-23.Ma Siyuan, Hu Qintai, Shuping Zhao, Wu Jigang. Multiscale Multidirection Binary Pattern Learning for Discriminant Palmprint Identification. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.
+23. Ma Siyuan, Hu Qintai, Shuping Zhao, Wu Jigang. Multiscale Multidirection Binary Pattern Learning for Discriminant Palmprint Identification. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.
 
 24.Li Shuyi, Zhang Bob, Fei Lunke, Shuping Zhao,  Zhou Yicong. Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition, IEEE Transactions on Multimedia, 2021, 17: 1946-1958 
 
