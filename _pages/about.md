@@ -84,7 +84,7 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 21.Shuping Zhao, Bob Zhang, Chen C L P. Joint deep convolutional feature representation for hyperspectral palmprint recognition. Information Sciences, 2019, 489: 167-181. 
 
 22. Jinrong Cui, Yinghua Li, Qiuli Zhang, Zhipeng He, Shuping Zhao*, A Federated Learning Framework Using FedProx Algorithm for Privacy-Preserving Palmprint Recognition，Chinese Conference on Biometric Recognition, Springer Nature Singapore, 2024.
-23. 
+
 23.Ma Siyuan, Hu Qintai, Shuping Zhao, Wu Jigang. Multiscale Multidirection Binary Pattern Learning for Discriminant Palmprint Identification. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.
 
 24.Li Shuyi, Zhang Bob, Fei Lunke, Shuping Zhao,  Zhou Yicong. Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition, IEEE Transactions on Multimedia, 2021, 17: 1946-1958 
