@@ -24,10 +24,7 @@ Technology, Guangzhou, and the PAMI Research Group, Department of Computer and I
 of Macau. He has published over 110 papers at prestigious international journals, i.e., NATURE REVIEWS METHODS
 PRIMERS, IEEE TRANSACTIONS ON IMAGE PROCESSING, IEEE TRANSACTIONS ON NEURAL
 NETWORKS AND LEARNING SYSTEMS, IEEE TRANSACTIONS ON INFORMATION FORENSICS AND
-SECURITY, IEEE TRANSACTIONS ON SYSTEMS, MAN, and CYBERNETICS, PATTERN RECOGNITION, and IEEE TRANSACTIONS ON MULTIMEDIA; and international conferences, i.e., ICLR, IJCAI, AAAI, and ACM
-MM. He was a Guess Editor of Electronics; Organizer of Special Session of ‘Advanced Biometric Recognition
-Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025, organizer of Special Session of
-‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special
+SECURITY, IEEE TRANSACTIONS ON SYSTEMS, MAN, and CYBERNETICS, PATTERN RECOGNITION, and IEEE TRANSACTIONS ON MULTIMEDIA; and international conferences, i.e., ICLR, IJCAI, AAAI, and ACM MM. He was an Associate Editor of Patten Recognition; a Guess Editor of Electronics; Organizer of Special Session of ‘Advanced Biometric Recognition Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025, organizer of Special Session of ‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special
 Session of ‘Advanced Hand-based Trait Recognition’ on CCBR 2025, area chairs of IJCAI. 
 
 My research interests include biometrics, machine learning, pattern recognition, and image processing. I have published more than 110 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1700+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
@@ -83,27 +80,27 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 
 21.Shuping Zhao, Bob Zhang, Chen C L P. Joint deep convolutional feature representation for hyperspectral palmprint recognition. Information Sciences, 2019, 489: 167-181. 
 
-24.Li Shuyi, Zhang Bob, Fei Lunke, Shuping Zhao,  Zhou Yicong. Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition, IEEE Transactions on Multimedia, 2021, 17: 1946-1958 
+22.Li Shuyi, Zhang Bob, Fei Lunke, Shuping Zhao,  Zhou Yicong. Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition, IEEE Transactions on Multimedia, 2021, 17: 1946-1958 
 
-25.Li Shuyi, Fei Lunke, Shuping Zhao, Teng Shaohua. Learning modality-invariant binary descriptor for crossing palmprint to palm-vein recognition. Pattern Recognition Letters, 2023, 172: 1-7. 
+23.Li Shuyi, Fei Lunke, Shuping Zhao, Teng Shaohua. Learning modality-invariant binary descriptor for crossing palmprint to palm-vein recognition. Pattern Recognition Letters, 2023, 172: 1-7. 
 
-26.Li Shuyi, Zhang Bob, Shuping Zhao, Yang Jinfeng. Local discriminant coding based convolutional feature representation for multimodal finger recognition. Information Sciences, 2021, 547: 1170-1181. 
+24.Li Shuyi, Zhang Bob, Shuping Zhao, Yang Jinfeng. Local discriminant coding based convolutional feature representation for multimodal finger recognition. Information Sciences, 2021, 547: 1170-1181. 
 
-27.Zhao Pengyang, Shuping Zhao, Chen Luyang, Yang Wenming, Liao Qingmin. Exploiting multiperspective driven hierarchical content-aware network for finger vein verification. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7938-7950. 
+25.Zhao Pengyang, Shuping Zhao, Chen Luyang, Yang Wenming, Liao Qingmin. Exploiting multiperspective driven hierarchical content-aware network for finger vein verification. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7938-7950. 
 
-28.Zhao Pengyang, Song, Yizhuo, Wang Siqi, Xue Jihao, Shuping Zhao, Liao Qingmin, Yang, Wenming. VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark. Pattern Recognition, 2024, 148, 110170.
+26.Zhao Pengyang, Song, Yizhuo, Wang Siqi, Xue Jihao, Shuping Zhao, Liao Qingmin, Yang, Wenming. VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark. Pattern Recognition, 2024, 148, 110170.
 
-29.Wang Yao, Fei Lunke, Zhao Shuping, Zhu Qi, Wen Jie, Imad Rida, Dense Hybrid Attention Network for Palmprint Image Super-Resolution. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
+27.Wang Yao, Fei Lunke, Zhao Shuping, Zhu Qi, Wen Jie, Imad Rida, Dense Hybrid Attention Network for Palmprint Image Super-Resolution. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
 
-30.Jiang Lin, Wu Jigang, Shuping Zhao, Li Jiaxing, Ma Siyuan. Joint Category Compactness and Disturbance Reduction for Cross-Domain Classification. IEEE Transactions on Instrumentation and Measurement, 73, 1-14, 2024. 
+28.Jiang Lin, Wu Jigang, Shuping Zhao, Li Jiaxing, Ma Siyuan. Joint Category Compactness and Disturbance Reduction for Cross-Domain Classification. IEEE Transactions on Instrumentation and Measurement, 73, 1-14, 2024. 
 
-31.Huang Zhuojie, Shuping Zhao, Fei Lunke, Wu Jigang. Weighted graph embedded low-rank projection learning for feature extraction. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2022: 1501-1505.
+29.Huang Zhuojie, Shuping Zhao, Fei Lunke, Wu Jigang. Weighted graph embedded low-rank projection learning for feature extraction. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2022: 1501-1505.
 
-32.Lunke Fei, Le Su, Bob Zhang,  Shuping Zhao, Jie Wen, Xiaoping Li , Learning Frequency-Aware Common Feature for VIS-NIR Heterogeneous Palmprint Recognition, IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7604-7618, 2024.
+30.Lunke Fei, Le Su, Bob Zhang,  Shuping Zhao, Jie Wen, Xiaoping Li , Learning Frequency-Aware Common Feature for VIS-NIR Heterogeneous Palmprint Recognition, IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7604-7618, 2024.
 
-33.Le Su, Lunke Fei, Bob Zhang, Shuping Zhao, Jie Wen; Yong Xu, "Complete Region of Interest for Unconstrained Palmprint Recognition," in IEEE Transactions on Image Processing, vol. 33, pp. 3662-3675, 2024.
+31.Le Su, Lunke Fei, Bob Zhang, Shuping Zhao, Jie Wen; Yong Xu, "Complete Region of Interest for Unconstrained Palmprint Recognition," in IEEE Transactions on Image Processing, vol. 33, pp. 3662-3675, 2024.
 
-34.Huang Zhuojie, Shuping Zhao, Zien Liang, et al. Robust Subspace Learning with Double Graph Embedding. Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 126-137.
+32.Huang Zhuojie, Shuping Zhao, Zien Liang, et al. Robust Subspace Learning with Double Graph Embedding. Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 126-137.
 
-35.Siyuan Ma, Qintai Hu, Shuping Zhao, Siyuan Chen, Lin Jiang SYEnet: Simple yet effective network for palmprint recognition, Information Sciences, 669, 120518, 2024. 
+33.Siyuan Ma, Qintai Hu, Shuping Zhao, Siyuan Chen, Lin Jiang SYEnet: Simple yet effective network for palmprint recognition, Information Sciences, 669, 120518, 2024. 
 
