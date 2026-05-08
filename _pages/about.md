@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-%<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>
 
 Prof. Shuping Zhao (Member, IEEE) received the M.S. degree in information science from South China Normal
 University, Guangzhou, China, in 2016, and the Ph.D. degree in computer science from the University of Macau, Macau, in 2020. He was a Postdoctoral Fellow with Tsinghua University and with the Department of Computer and
