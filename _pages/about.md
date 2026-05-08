@@ -41,19 +41,28 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 4. Shuping Zhao, yulong Chen, Jie Wen, et al., Confident Block Diagonal Structure-Aware Invariable Graph Completion for Incomplete Multi-view Clustering. InThe Fourteenth International Conference on Learning Representations, ICLR, 2026.
 
 # 📝 Main Publications 
-
-
 1.Shuping Zhao, Bob Zhang, Jian Yang, Jianhang Zhou, Yong Xu, Linear discriminant analysis. Nature Reviews Methods Primers, 4(1), 70,2024.
+
 2.Linfeng Wang, Sujia Liu, Jia-xin Huang, Haifeng Zhu, Shuyu Li, Yannan Li, Sen Chen, Jianying Han, Yin Zhu, Jiahao Wu, Wentao Liao, Hongmei Zhang, Haiyan Zeng, Shaoting Li, Shuping Zhao*, Bingwei Wang, Jiaqi Lin, Ji Zeng, Machine learning-based analysis of the impact of 5′ untranslated region on protein expression, Nucleic Acids Research, Volume 53, Issue 17, 23 September 2025, gkaf861, https://doi.org/10.1093/nar/gkaf861
+
 3.Shuping Zhao, Lunke Fei, Tingting Chai, Jie Wen, Bob Zhang, Jinrong Cui, High-Confident Block Diagonal Analysis for Multi-View Palmprint Recognition in Unrestrained Environment, IEEE Transactions on Image Processing, 2026, To be published.
+
 4.Shuping Zhao, Lunke Fei, Qi Lai, Jie Wen, Jinrong Cui, and Tingting Chai. "High-confident local structure guided consensus graph learning for incomplete multi-view clustering." In Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence, IJCAI, vol. 25. 2025. 
+
 5.Shuping Zhao, Lunke Fei, Bob Zhang, Jie Wen, Pengyang Zhao, Tensorized Multi-View Low-Rank Approximation Based Robust Hand-Print Recognition. IEEE Transactions on Image Processing, vol.33:3328-3340,2024.
+
 6.Shuping Zhao, Lunke Fei, Bob Zhang, Jie Wen, Jinrong Cui, Towards Mobile Palmprint Recognition via Multi-view Hierarchical Graph Learning, IEEE Transactions on Information Forensics and Security, vol. 20, pp. 101-113, 2025.
+
 7.Shuping Zhao, Bob Zhang. Learning complete and discriminative direction pattern for robust palmprint recognition. IEEE Transactions on Image Processing, 2020, 30: 1001-1014. 
+
 8.Shuping Zhao, Wen Jie, Fei Lunke, Zhang Bob. Tensorized incomplete multi-view clustering with intrinsic graph completion. Proceedings of the AAAI Conference on Artificial Intelligence. 2023, 37(9): 11327-11335. 
+
 9.Shuping Zhao, Fei Lunke, Wen Jie, Zhang Bob. Incomplete Multi-View Clustering with Regularized Hierarchical Graph. Proceedings of the 31st ACM International Conference on Multimedia. 2023: 3060-3068. 
-10.Wulin Xie, Xiaohuan Lu, Yadong Liu, Jiang Long, Bob Zhang, Shuping Zhao*, Jie Wen, Uncertainty-aware pseudo-labeling and dual graph driven network for incomplete multi-view multi-label classification, Proceedings of the 32nd ACM International Conference on Multimedia, 6656-6665, 2024. (CCF-A类会议)
+
+10.Wulin Xie, Xiaohuan Lu, Yadong Liu, Jiang Long, Bob Zhang, Shuping Zhao*, Jie Wen, Uncertainty-aware pseudo-labeling and dual graph driven network for incomplete multi-view multi-label classification, Proceedings of the 32nd ACM International Conference on Multimedia, 6656-6665, 2024. 
+
 11.Shuping Zhao, Bob Zhang. Learning salient and discriminative descriptor for palmprint feature extraction and identification. IEEE transactions on neural networks and learning systems, 2020, 31(12): 5219-5230.
+
 12.Shuping Zhao, Fei Lunke, Wen Jie, Zhang Bob, Zhao Pengyang, Li Shuyi. Structure Suture Learning-Based Robust Multiview Palmprint Recognition. IEEE Transactions on Neural Networks and Learning Systems, 2022.
 13.Shuping Zhao, Lunke Fei, Jie Wen, Jigang Wu, Bob Zhang, Intrinsic and Complete Structure Learning Based Incomplete Multiview Clustering, IEEE Transactions on Multimedia, DOI 10.1109/TMM.2021.3138638. 
 14.Shuping Zhao，Bob Zhang. Joint constrained least-square regression with deep convolutional feature for palmprint recognition. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, 52(1): 511-522. 
