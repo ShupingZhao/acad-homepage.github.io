@@ -30,12 +30,15 @@ Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025,
 ‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special
 Session of ‘Advanced Hand-based Trait Recognition’ on CCBR 2025, area chairs of IJCAI. 
 
-My research interests include biometrics, machine learning, pattern recognition, and image processing. I have published more than 110 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1800+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include biometrics, machine learning, pattern recognition, and image processing. I have published more than 110 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1700+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+1. Shuping Zhao, Bob Zhang, Jian Yang, Jianhang Zhou, Yong Xu, Linear discriminant analysis. Nature Reviews
+Methods Primers, 4(1), 70,2024. (IF 56.0)
+2. Linfeng Wang, Sujia Liu, Jia-xin Huang, Haifeng Zhu, Shuyu Li, Yannan Li, Sen Chen, Jianying Han, Yin Zhu, Jiahao Wu, Wentao Liao, Hongmei Zhang, Haiyan Zeng, Shaoting Li, Shuping Zhao*, Bingwei Wang, Jiaqi Lin, Ji Zeng, Machine learning-based analysis of the impact of 5′ untranslated region on protein expression, Nucleic Acids Research, Volume 53, Issue 17, 23 September 2025, gkaf861, https://doi.org/10.1093/nar/gkaf861
+3. Shuping Zhao, Lunke Fei, Tingting Chai, Jie Wen, Bob Zhang, Jinrong Cui, High-Confident Block Diagonal Analysis for Multi-View Palmprint Recognition in Unrestrained Environment, IEEE Transactions on Image Processing, 2026, To be published.
+4. Shuping Zhao, yulong Chen, Jie Wen, et al., Confident Block Diagonal Structure-Aware Invariable Graph Completion for Incomplete Multi-view Clustering. InThe Fourteenth International Conference on Learning Representations, ICLR, 2026.
 
 # 📝 Publications 
 
