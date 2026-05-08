@@ -24,8 +24,9 @@ Technology, Guangzhou, and the PAMI Research Group, Department of Computer and I
 of Macau. He has published over 110 papers at prestigious international journals, i.e., NATURE REVIEWS METHODS
 PRIMERS, IEEE TRANSACTIONS ON IMAGE PROCESSING, IEEE TRANSACTIONS ON NEURAL
 NETWORKS AND LEARNING SYSTEMS, IEEE TRANSACTIONS ON INFORMATION FORENSICS AND
-SECURITY, IEEE TRANSACTIONS ON SYSTEMS, MAN, and CYBERNETICS, PATTERN RECOGNITION, and IEEE TRANSACTIONS ON MULTIMEDIA; and international conferences, i.e., ICLR, IJCAI, AAAI, and ACM MM. He was an Associate Editor of Patten Recognition; a Guess Editor of Electronics; Organizer of Special Session of ‘Advanced Biometric Recognition Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025, organizer of Special Session of ‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special
-Session of ‘Advanced Hand-based Trait Recognition’ on CCBR 2025, area chairs of IJCAI. 
+SECURITY, IEEE TRANSACTIONS ON SYSTEMS, MAN, and CYBERNETICS, PATTERN RECOGNITION, and IEEE TRANSACTIONS ON MULTIMEDIA; and international conferences, i.e., ICLR, IJCAI, AAAI, and ACM MM.
+
+He is an Associate Editor of Patten Recognition, as well as a Guess Editor of Electronics. In addition, he was also a Organizer of Special Session of ‘Advanced Biometric Recognition Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025, organizer of Special Session of ‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special Session of ‘Advanced Hand-based Trait Recognition’ on CCBR 2025, area chairs of IJCAI. 
 
 My research interests include biometrics, machine learning, pattern recognition, and image processing. I have published more than 110 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1700+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
