@@ -40,7 +40,7 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 3. Shuping Zhao, Lunke Fei, Tingting Chai, Jie Wen, Bob Zhang, Jinrong Cui, High-Confident Block Diagonal Analysis for Multi-View Palmprint Recognition in Unrestrained Environment, IEEE Transactions on Image Processing, 2026, To be published.
 4. Shuping Zhao, yulong Chen, Jie Wen, et al., Confident Block Diagonal Structure-Aware Invariable Graph Completion for Incomplete Multi-view Clustering. InThe Fourteenth International Conference on Learning Representations, ICLR, 2026.
 
-# 📝 Main Publications 
+# 📝 Selected Publications 
 1.Shuping Zhao, Bob Zhang, Jian Yang, Jianhang Zhou, Yong Xu, Linear discriminant analysis. Nature Reviews Methods Primers, 4(1), 70,2024.
 
 2.Linfeng Wang, Sujia Liu, Jia-xin Huang, Haifeng Zhu, Shuyu Li, Yannan Li, Sen Chen, Jianying Han, Yin Zhu, Jiahao Wu, Wentao Liao, Hongmei Zhang, Haiyan Zeng, Shaoting Li, Shuping Zhao*, Bingwei Wang, Jiaqi Lin, Ji Zeng, Machine learning-based analysis of the impact of 5′ untranslated region on protein expression, Nucleic Acids Research, Volume 53, Issue 17, 23 September 2025, gkaf861, https://doi.org/10.1093/nar/gkaf861
@@ -64,42 +64,52 @@ Methods Primers, 4(1), 70,2024. (IF 56.0)
 11.Shuping Zhao, Bob Zhang. Learning salient and discriminative descriptor for palmprint feature extraction and identification. IEEE transactions on neural networks and learning systems, 2020, 31(12): 5219-5230.
 
 12.Shuping Zhao, Fei Lunke, Wen Jie, Zhang Bob, Zhao Pengyang, Li Shuyi. Structure Suture Learning-Based Robust Multiview Palmprint Recognition. IEEE Transactions on Neural Networks and Learning Systems, 2022.
+
 13.Shuping Zhao, Lunke Fei, Jie Wen, Jigang Wu, Bob Zhang, Intrinsic and Complete Structure Learning Based Incomplete Multiview Clustering, IEEE Transactions on Multimedia, DOI 10.1109/TMM.2021.3138638. 
+
 14.Shuping Zhao，Bob Zhang. Joint constrained least-square regression with deep convolutional feature for palmprint recognition. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, 52(1): 511-522. 
+
 15.Shuping Zhao, Jigang Wu, Bob Zhang, Lunke Fei, Shuyi Li, and Pengyang Zhao, Adaptive Graph Embedded Preserving Projection Learning for Feature Extraction and Selection, IEEE Transactions on Systems, Man, and Cybernetics: Systems, Aug 2022, Doi: 10.1109/TSMC.2022.3193131 
+
 16.Shuping Zhao, Bob Zhang. Deep discriminative representation for generic palmprint recognition. Pattern Recognition, 2020, 98: 107071.
+
 17.Shuping Zhao, Wu Jigang, Fei Lunke, Zhang Bob, Double-cohesion learning based multiview and discriminant palmprint recognition. Information Fusion, 2022, 83: 96-109. 
+
 18.Shuping Zhao, Jigang Wu, Bob Zhang, Lunke Fei. Low-rank inter-class sparsity based semi-flexible target least squares regression for feature representation. Pattern Recognition, 2022, 123: 108346.
+
 19.Shuping Zhao, Bob Zhang, Li Shuyi. Discriminant and sparsity based least squares regression with L1 regularization for feature representation, ICASSP 2020-2020 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2020: 1504-1508. 
+
 20.Shuping Zhao, Nie Wei., Zhang Bob. Deep learning-based hyperspectral multimodal biometric authentication system using palmprint and dorsal hand vein. In AI and Deep Learning in Biometric Security, CRC Press, 2021, 1-12.
+
 21.Shuping Zhao, Bob Zhang, Chen C L P. Joint deep convolutional feature representation for hyperspectral palmprint recognition. Information Sciences, 2019, 489: 167-181. 
+
 22. Jinrong Cui, Yinghua Li, Qiuli Zhang, Zhipeng He, Shuping Zhao*, A Federated Learning Framework Using FedProx Algorithm for Privacy-Preserving Palmprint Recognition，Chinese Conference on Biometric Recognition, Springer Nature Singapore, 2024.
-23.Ma Siyuan, Hu Qintai, Shuping Zhao, Wu Jigang. Multiscale Multidirection Binary Pattern Learning for Discriminant Palmprint Identification. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12. 
+23. 
+23.Ma Siyuan, Hu Qintai, Shuping Zhao, Wu Jigang. Multiscale Multidirection Binary Pattern Learning for Discriminant Palmprint Identification. IEEE Transactions on Instrumentation and Measurement, 2023, 72: 1-12.
+
 24.Li Shuyi, Zhang Bob, Fei Lunke, Shuping Zhao,  Zhou Yicong. Learning Sparse and Discriminative Multimodal Feature Codes for Finger Recognition, IEEE Transactions on Multimedia, 2021, 17: 1946-1958 
+
 25.Li Shuyi, Fei Lunke, Shuping Zhao, Teng Shaohua. Learning modality-invariant binary descriptor for crossing palmprint to palm-vein recognition. Pattern Recognition Letters, 2023, 172: 1-7. 
+
 26.Li Shuyi, Zhang Bob, Shuping Zhao, Yang Jinfeng. Local discriminant coding based convolutional feature representation for multimodal finger recognition. Information Sciences, 2021, 547: 1170-1181. 
+
 27.Zhao Pengyang, Shuping Zhao, Chen Luyang, Yang Wenming, Liao Qingmin. Exploiting multiperspective driven hierarchical content-aware network for finger vein verification. IEEE Transactions on Circuits and Systems for Video Technology, 2022, 32(11): 7938-7950. 
+
 28.Zhao Pengyang, Song, Yizhuo, Wang Siqi, Xue Jihao, Shuping Zhao, Liao Qingmin, Yang, Wenming. VPCFormer: A transformer-based multi-view finger vein recognition model and a new benchmark. Pattern Recognition, 2024, 148, 110170.
+
 29.Wang Yao, Fei Lunke, Zhao Shuping, Zhu Qi, Wen Jie, Imad Rida, Dense Hybrid Attention Network for Palmprint Image Super-Resolution. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2024.
+
 30.Jiang Lin, Wu Jigang, Shuping Zhao, Li Jiaxing, Ma Siyuan. Joint Category Compactness and Disturbance Reduction for Cross-Domain Classification. IEEE Transactions on Instrumentation and Measurement, 73, 1-14, 2024. 
+
 31.Huang Zhuojie, Shuping Zhao, Fei Lunke, Wu Jigang. Weighted graph embedded low-rank projection learning for feature extraction. ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing. IEEE, 2022: 1501-1505.
+
 32.Lunke Fei, Le Su, Bob Zhang,  Shuping Zhao, Jie Wen, Xiaoping Li , Learning Frequency-Aware Common Feature for VIS-NIR Heterogeneous Palmprint Recognition, IEEE Transactions on Information Forensics and Security, vol. 19, pp. 7604-7618, 2024.
+
 33.Le Su, Lunke Fei, Bob Zhang, Shuping Zhao, Jie Wen; Yong Xu, "Complete Region of Interest for Unconstrained Palmprint Recognition," in IEEE Transactions on Image Processing, vol. 33, pp. 3662-3675, 2024.
+
 34.Huang Zhuojie, Shuping Zhao, Zien Liang, et al. Robust Subspace Learning with Double Graph Embedding. Chinese Conference on Pattern Recognition and Computer Vision (PRCV). Singapore: Springer Nature Singapore, 2023: 126-137.
+
 35.Siyuan Ma, Qintai Hu, Shuping Zhao, Siyuan Chen, Lin Jiang SYEnet: Simple yet effective network for palmprint recognition, Information Sciences, 669, 120518, 2024. 
+
 36. Lin Jiang, Jigang Wu, Shuping Zhao, et al. Joint Category Compactness and Disturbance Reduction for Cross-Domain Classification, IEEE Transactions on Instrumentation and Measurement 73, 1-14, 2024.
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
