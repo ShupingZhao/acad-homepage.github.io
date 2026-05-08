@@ -17,9 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Prof. Shuping Zhao (Member, IEEE) received the M.S. degree in information science from South China Normal
+University, Guangzhou, China, in 2016, and the Ph.D. degree in computer science from the University of Macau, Macau, in 2020. He was a Postdoctoral Fellow with Tsinghua University and with the Department of Computer and
+Information Science, University of Macau. He is currently with the School of Computer, Guangdong University of
+Technology, Guangzhou, and the PAMI Research Group, Department of Computer and Information Science, University
+of Macau. He has published over 110 papers at prestigious international journals, i.e., NATURE REVIEWS METHODS
+PRIMERS, IEEE TRANSACTIONS ON IMAGE PROCESSING, IEEE TRANSACTIONS ON NEURAL
+NETWORKS AND LEARNING SYSTEMS, IEEE TRANSACTIONS ON INFORMATION FORENSICS AND
+SECURITY, IEEE TRANSACTIONS ON SYSTEMS, MAN, and CYBERNETICS, PATTERN RECOGNITION, and IEEE TRANSACTIONS ON MULTIMEDIA; and international conferences, i.e., ICLR, IJCAI, AAAI, and ACM
+MM. He was a Guess Editor of Electronics; Organizer of Special Session of ‘Advanced Biometric Recognition
+Technologies in Personal Authentication using Hand-based Traits’ on ICME 2025, organizer of Special Session of
+‘Privacy-Preserving Biometrics: Advances in Methodologies and Applications’ on IJCB 2025, organizer of Special
+Session of ‘Advanced Hand-based Trait Recognition’ on CCBR 2025, area chairs of IJCAI. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include biometrics, machine learning, pattern recognition, and image processing. I have published more than 110 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=0MMG8bIAAAAJ&hl=en'>google scholar citations <strong><span id='total_cit'>1800+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
